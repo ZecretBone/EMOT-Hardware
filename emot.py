@@ -1,4 +1,5 @@
 print("welcome EMOT")
+#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
 hr = 12 #18
 r = 11 #17
 g = 13 #27
